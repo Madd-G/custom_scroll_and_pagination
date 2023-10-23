@@ -1,0 +1,17 @@
+com.learn.custom_scroll_and_pagination.app-jetified-window-1.0.0-beta04-0 /Users/alamsyah/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.learn.custom_scroll_and_pagination.app-jetified-play-services-basement-18.1.0-1 /Users/alamsyah/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.learn.custom_scroll_and_pagination.app-jetified-annotation-experimental-1.1.0-2 /Users/alamsyah/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.learn.custom_scroll_and_pagination.app-jetified-firebase-common-20.3.3-3 /Users/alamsyah/.gradle/caches/transforms-3/6f9fa5902813f78de2aefcdfcdb180f7/transformed/jetified-firebase-common-20.3.3/res
+com.learn.custom_scroll_and_pagination.app-core-1.6.0-4 /Users/alamsyah/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.learn.custom_scroll_and_pagination.app-jetified-window-java-1.0.0-beta04-5 /Users/alamsyah/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.learn.custom_scroll_and_pagination.app-debug-6 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/android/app/src/debug/res
+com.learn.custom_scroll_and_pagination.app-main-7 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/android/app/src/main/res
+com.learn.custom_scroll_and_pagination.app-pngs-8 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/generated/res/pngs/debug
+com.learn.custom_scroll_and_pagination.app-resValues-9 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/generated/res/resValues/debug
+com.learn.custom_scroll_and_pagination.app-rs-10 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/generated/res/rs/debug
+com.learn.custom_scroll_and_pagination.app-mergeDebugResources-11 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.learn.custom_scroll_and_pagination.app-mergeDebugResources-12 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.learn.custom_scroll_and_pagination.app-merged_res-13 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/app/intermediates/merged_res/debug
+com.learn.custom_scroll_and_pagination.app-packaged_res-14 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/firebase_core/intermediates/packaged_res/debug
+com.learn.custom_scroll_and_pagination.app-packaged_res-15 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/path_provider_android/intermediates/packaged_res/debug
+com.learn.custom_scroll_and_pagination.app-packaged_res-16 /Users/alamsyah/projects/flutter_projects/custom_scroll_and_pagination/build/sqflite/intermediates/packaged_res/debug
